@@ -88,7 +88,7 @@ npm run dev
 - Implemented using AsyncStorage
 - Managed through `hooks/useFavorites.ts`
 - Persists user's favorite movies
-- Supports adding and removing favorites
+- Supports adding  favorites
 
 ### UI Components
 - Custom MovieCard component for consistent movie display
