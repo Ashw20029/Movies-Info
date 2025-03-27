@@ -113,13 +113,19 @@ The app uses the OMDb API for fetching movie data. The API integration is handle
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Images
+
+
 1)Search Screen
 ![image](https://github.com/user-attachments/assets/8d3f84ab-b788-4658-91ec-9aa8bab5807a)
 
 ![image](https://github.com/user-attachments/assets/fbe76ea7-c799-4235-9fb0-db67089900e3)
 
+
+
 3)Add Favourites
 ![image](https://github.com/user-attachments/assets/4ade343d-6ec9-4ea6-b746-4e48fbd4f788)
+
+
 
 4)Favourite movies Screens
 
