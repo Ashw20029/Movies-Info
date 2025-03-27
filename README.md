@@ -14,7 +14,7 @@ A React Native mobile application that allows users to search for movies and man
 
 - React Native
 - Expo Router
-- TypeScript
+- JavaScript
 - OMDb API
 - AsyncStorage for local storage
 - Lucide Icons
@@ -111,3 +111,17 @@ The app uses the OMDb API for fetching movie data. The API integration is handle
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Images
+1)Search Screen
+![image](https://github.com/user-attachments/assets/8d3f84ab-b788-4658-91ec-9aa8bab5807a)
+
+![image](https://github.com/user-attachments/assets/fbe76ea7-c799-4235-9fb0-db67089900e3)
+
+3)Add Favourites
+![image](https://github.com/user-attachments/assets/4ade343d-6ec9-4ea6-b746-4e48fbd4f788)
+
+4)Favourite movies Screens
+
+![image](https://github.com/user-attachments/assets/0694ede9-974d-40c1-8d7b-d26d8a0d7914)
+
